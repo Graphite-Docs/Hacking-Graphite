@@ -1,0 +1,13 @@
+.logo {
+  max-height: 60px;
+  padding: 10px;
+}
+
+.nav-wrapper {
+  background: #fff!important;
+  color: #000!important;
+}
+
+#nav-mobile li a{
+  color: #000!important;
+}
