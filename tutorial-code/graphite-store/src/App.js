@@ -65,8 +65,8 @@ class App extends Component {
         <div className="nav-wrapper">
           <a href="/" className="black-text brand-logo"><img className="logo" src={logo} alt="graphite logo" /></a>
           <ul id="nav-mobile" className="right">
-            <li><a href="/">Tutorial</a></li>
-            <li><a href="/">Source Code</a></li>
+            <li><a href="https://medium.com/the-lead/hacking-graphite-create-your-own-personal-api-af93ac074855">Tutorial</a></li>
+            <li><a href="https://github.com/Graphite-Docs/Hacking-Graphite/tree/master/tutorial-code/graphite-store">Source Code</a></li>
             <li><a href="https://www.graphitedocs.com/about">About Graphite</a></li>
           </ul>
         </div>
